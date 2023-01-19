@@ -2,5 +2,5 @@
  - 👀 I’m interested in developing, movies, fishing, traveling, reading also :)
  - 🌱 I’m currently learning CSS, SAAS, JS.
  - 💞️ I’m looking full time work as a programmer. OR remote.
- - 📫 To reach me simple e-mail me to edvinas.benetis@gmail.com
+ - 📫 To reach me simple e-mail me to edvinas.benetis@gmail.com or call mw +370 68315366
 ![](https://komarev.com/ghpvc/?username=Edvinas1982&color=green&label=PROFILE+VIEWS)
